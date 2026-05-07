@@ -239,7 +239,7 @@ The following results were captured during physical testing of the three-node ne
 
 ![](Results/Fig1.jpeg)
 
-*Caption: [Breadboard Version of a node in the network]*
+*[Breadboard Version of a node in the network]*
 
 ---
 
@@ -247,7 +247,7 @@ The following results were captured during physical testing of the three-node ne
 
 ![](Results/Fig2.jpeg)
 
-*Caption: [Universal PCB without battery connection]*
+*[Universal PCB without battery connection]*
 
 ---
 
@@ -255,7 +255,7 @@ The following results were captured during physical testing of the three-node ne
 
 ![](Results/Fig10.jpeg)
 
-*Caption: [A independent node in the mesh network]*
+*[A independent node in the mesh network]*
 
 ---
 
@@ -263,7 +263,7 @@ The following results were captured during physical testing of the three-node ne
 
 ![](Results/Fig11.jpeg)
 
-*Caption: [Selecting the target node]*
+*[Selecting the target node]*
 
 ---
 
@@ -271,7 +271,7 @@ The following results were captured during physical testing of the three-node ne
 
 ![](Results/Fig12.jpeg)
 
-*Caption: [Custom Input to the device]*
+*[Custom Input to the device]*
 
 ---
 
@@ -279,7 +279,7 @@ The following results were captured during physical testing of the three-node ne
 
 ![](Results/Fig13.jpeg)
 
-*Caption: [Sending the message to the target node]*
+*[Sending the message to the target node]*
 
 ---
 
@@ -287,7 +287,7 @@ The following results were captured during physical testing of the three-node ne
 
 ![](Results/Fig6.jpeg)
 
-*Caption: [All 3 nodes in the network together]*
+*[All 3 nodes in the network together]*
 
 ---
 
@@ -295,7 +295,7 @@ The following results were captured during physical testing of the three-node ne
 
 ![](Results/Fig7.jpeg)
 
-*Caption: [Custom 3D Case]*
+*[Custom 3D Case]*
 
 
 ## Known Limitations
